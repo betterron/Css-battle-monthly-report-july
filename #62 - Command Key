@@ -1,0 +1,67 @@
+<div id='wrapper'>
+  <div id='c1'></div> 
+  <div id='c2'></div>
+  <div id='c3'></div>
+  <div id='c4'></div> 
+</div>
+<style>
+  body{
+    display: flex; 
+    background: #191919; 
+  } 
+  *{
+    box-sizing: border-box;
+  }
+  #wrapper { 
+    border: 10px solid #5DBCF9;
+    width: 70px;
+    height: 70px;
+	margin: auto;
+    position: relative;
+  }
+  #c1{
+    position: absolute; 
+    width: 70px;
+    height: 70px;
+    top: -140%;
+    left: -140%;
+    border-radius: 50% 50% 0 50%;
+    border: 10px solid #5DBCF9;
+  }
+    #c2{
+    position: absolute;
+    border: 10px solid #5DBCF9;
+    width: 70px;
+    height: 70px;
+    top:  100%;
+    left: -140%;
+    border-radius: 50% 0 50% 50%;
+  }
+    #c3{
+    position: absolute;
+    border: 10px solid #5DBCF9;
+    width: 70px;
+    height: 70px;
+    top: -140%;
+    left:  100%;
+    border-radius: 50% 50% 50% 0 ;
+  }
+    #c4{
+    position: absolute;
+    border: 10px solid #5DBCF9;
+    width: 70px;
+    height: 70px;
+    top:  100%;
+    left:  100%;
+    border-radius:0 50% 50% 50%  ;
+  }
+   
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
