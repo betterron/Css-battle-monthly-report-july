@@ -9,3 +9,6 @@
 
 #44 - Stripes https://cssbattle.dev/play/44
 ![Screen Shot 2021-07-06 at 15 54 50](https://user-images.githubusercontent.com/60843577/124572161-a1f8b080-de72-11eb-9350-7eede02355d7.png)
+
+#8 Transition https://cssbattle.dev/play/43
+![Screen Shot 2021-07-06 at 16 14 55](https://user-images.githubusercontent.com/60843577/124576313-61029b00-de76-11eb-8edd-64d191ba6edc.png)
