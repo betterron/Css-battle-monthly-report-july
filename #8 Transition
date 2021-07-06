@@ -1,0 +1,31 @@
+<div></div>
+<style> 
+  div {
+    width: 110px;
+    height: 240px; 
+    margin: auto;
+    position: relative; 
+    overflow: hidden;
+  } 
+  body{
+    background: #6592CF;
+    display: flex;
+  }
+    div:after ,div:before {
+       content: '';
+       width: 140px;
+       height: 100%;
+       position: absolute;
+       top:0;
+       border: 30px solid #243D83;
+       box-sizing: border-box;
+       border-radius: 70px; 
+   }
+  div:after{ 
+    left: -70px; 
+  }
+    div:before { 
+    right: -70px; 
+  }
+</style>
+ 
