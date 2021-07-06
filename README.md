@@ -6,3 +6,6 @@
 
 #62 - Command Key https://cssbattle.dev/play/63
 ![Screen Shot 2021-07-05 at 09 09 49](https://user-images.githubusercontent.com/60843577/124408545-a5a40e80-dd70-11eb-8bcf-165e02793fb0.png)
+
+#44 - Stripes https://cssbattle.dev/play/44
+![Screen Shot 2021-07-06 at 15 54 50](https://user-images.githubusercontent.com/60843577/124572161-a1f8b080-de72-11eb-9350-7eede02355d7.png)
