@@ -18,3 +18,6 @@
 
 #57 - Pillars https://cssbattle.dev/play/57
 ![Screen Shot 2021-07-09 at 08 05 45](https://user-images.githubusercontent.com/60843577/125008256-56b9ea00-e08c-11eb-8dcb-3ad5e469051f.png)
+
+#6 - Missing Slice https://cssbattle.dev/play/6
+![Screen Shot 2021-07-12 at 09 12 03](https://user-images.githubusercontent.com/60843577/125220505-127b5380-e2f1-11eb-8a9f-3ea8667b3408.png)
