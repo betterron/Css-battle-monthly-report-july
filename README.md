@@ -1,4 +1,4 @@
-![Screen Shot 2021-07-12 at 09 23 11](https://user-images.githubusercontent.com/60843577/125221596-a0a40980-e2f2-11eb-990f-b802e7a7ba13.png)
+ 
 #60 - Evil Triangles https://cssbattle.dev/play/60
 ![Screen Shot 2021-07-02 at 16 41 52](https://user-images.githubusercontent.com/60843577/124404655-0e39be00-dd66-11eb-8055-f48ec33f7514.png)
 
