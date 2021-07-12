@@ -1,3 +1,4 @@
+![Screen Shot 2021-07-12 at 09 23 11](https://user-images.githubusercontent.com/60843577/125221596-a0a40980-e2f2-11eb-990f-b802e7a7ba13.png)
 #60 - Evil Triangles https://cssbattle.dev/play/60
 ![Screen Shot 2021-07-02 at 16 41 52](https://user-images.githubusercontent.com/60843577/124404655-0e39be00-dd66-11eb-8055-f48ec33f7514.png)
 
@@ -21,3 +22,6 @@
 
 #6 - Missing Slice https://cssbattle.dev/play/6
 ![Screen Shot 2021-07-12 at 09 12 03](https://user-images.githubusercontent.com/60843577/125220505-127b5380-e2f1-11eb-8a9f-3ea8667b3408.png)
+
+#32 - Band-aid https://cssbattle.dev/play/32
+![Screen Shot 2021-07-12 at 09 24 03](https://user-images.githubusercontent.com/60843577/125221651-c03b3200-e2f2-11eb-9db1-35f694b7a2ed.png)
