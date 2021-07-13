@@ -25,3 +25,6 @@
 
 #32 - Band-aid https://cssbattle.dev/play/32
 ![Screen Shot 2021-07-12 at 09 24 03](https://user-images.githubusercontent.com/60843577/125221651-c03b3200-e2f2-11eb-9db1-35f694b7a2ed.png)
+
+#16 - Eye of the Tiger https://cssbattle.dev/play/16
+![Screen Shot 2021-07-13 at 08 23 58](https://user-images.githubusercontent.com/60843577/125375632-98f86980-e3b3-11eb-98a2-503e4249e035.png)
