@@ -1,0 +1,40 @@
+<div></div>
+<style>
+  body{
+    background: #0B2429;
+    display: flex;
+  }
+  
+  div {
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    background: #0B2429;
+    border-radius: 50%;
+    box-shadow: 0 0 0 45px #F3AC3C, 0 0 0 65px #0B2429, 0 0 0 75px #998235;
+    position: relative;
+  }
+  
+  div:after, div:before{
+    content: '';
+    position: absolute;  
+    top: -40px;
+    border-bottom: 65px solid #0B2429 ;
+    border-top: 65px solid #0B2429 ;
+  }
+  
+  div:before{
+    left:-116px;  
+    border-right: 65px solid #998235 ; 
+    border-left:  0px solid red ;
+    z-index: -1; 
+  }
+  
+  div:after{
+    z-index: -1;
+    right: -116px; 
+    border-right:  0px solid red ; 
+    border-left: 65px solid #998235 ;
+  }
+  
+</style>
